@@ -42,17 +42,6 @@ When the photograph is ready, save it in the `Images/` folder as `printed-mount.
 - **Autodesk Fusion 360** — 3D modelling and mechanical design
 - **Bambu Lab P1S** — 3D printing and physical fabrication
 
-## Individual Role in the Team Project
-
-| Work area | Responsibility |
-|---|---|
-| 3D modelling of the mount | **My contribution** |
-| Mechanical layout and hardware mounting provisions | **My contribution** |
-| 3D printing of the mount | **My contribution** |
-| Electronics and circuit integration | Other team members |
-| Firmware and sensor interfacing | Other team members |
-| System testing | Other team members |
-
 ## Author
 
 **Kiran**  
