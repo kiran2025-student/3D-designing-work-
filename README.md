@@ -23,8 +23,7 @@ My responsibility was limited to the 3D modelling and mount design. The other pr
 ## Fusion 360 Design
 
 The following image shows the CAD model of the mount designed in Autodesk Fusion 360.
-
-![Fusion 360 CAD model of the weather monitoring system mount](Images/fusion360-mount-design.jpeg)
+<img width="1600" height="861" alt="WhatsApp Image 2026-11-01 at 1 04 11 AM" src="https://github.com/user-attachments/assets/cfe31693-f74f-4091-8003-3c128c743fa2" />
 
 ## 3D-Printed Mount
 
